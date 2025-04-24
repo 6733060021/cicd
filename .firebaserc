@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "cicd-68b3d",
+    "cicd": "cicd-68b3d"
+  },
+  "targets": {},
+  "etags": {}
 }
